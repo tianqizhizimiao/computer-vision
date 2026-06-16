@@ -1,0 +1,28 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "水瓶",
+      "points": [
+        [
+          11.304347826086968,
+          239.20289855072463
+        ],
+        [
+          607.6811594202898,
+          396.4492753623188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "DM_20230728101903_004_jpg.rf.718f0decc5b1680d4dab2befb2e61e1d_v4.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}
