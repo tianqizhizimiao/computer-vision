@@ -1,5 +1,0 @@
-names:
-- 水瓶
-nc: 1
-train: train_data/train/images
-val: train_data/val/images
